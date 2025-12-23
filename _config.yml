@@ -38,11 +38,6 @@ back_to_top_text: "Back to top"
 # Heading anchors
 heading_anchors: true
 
-# Math support (using MathJax)
-mathjax:
-  source: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  config: 'MathJax.Hub.Config({ tex2jax: { inlineMath: [["$","$"],["\\(","\\)"]], displayMath: [["$$","$$"],["\\[","\\]"]] } });'
-
 # Plugins
 plugins:
   - jekyll-seo-tag
