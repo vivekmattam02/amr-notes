@@ -14,16 +14,14 @@ Course lecture slides for Autonomous Mobile Robots.
 
 | Lecture | Topic | Link |
 |---------|-------|------|
-| Lecture 1 | Introduction & Physical Constraints | [View Slides](https://docs.google.com/presentation/d/1_PCK173-5XBfSuWkFjHK11cIjD5_xtXbXBXZDQmi2Y4/edit?usp=drive_link) |
-| Lecture 2 | Vehicle Kinematics & Equations of Motion | [View Slides](https://docs.google.com/presentation/d/1NMWc1V2Qctzb6paN7esHMiXA2CcrhYWME5T-BtjgDuo/edit?usp=drive_link) |
-| Lecture 3 | Control & Perception Fundamentals | [View Slides](https://docs.google.com/presentation/d/1mvdP7Dv9RZRr8ZG9wSL4h9LFLS-Ls79Ai2YYMBFucZk/edit?usp=drive_link) |
-| Lecture 4 | Nonlinear Control Methods | [View Slides](https://docs.google.com/presentation/d/18i2rkAIUm81_QH6gPNFczdOLo76nc5n4P1r-FuIrafE/edit?usp=drive_link) |
-| Lecture 5 | Advanced Model Predictive Control (NMPC) + Constraints | [View Slides](https://docs.google.com/presentation/d/1j5n9Y_NP-ytJsgGWAEoAiHH6pxIoP_ssTOdUDgtTulI/edit?usp=drive_link) |
-| Lecture 6 | Nonlinear Control Methods | [View PDF](https://drive.google.com/file/d/1IunTk2OgFqEe3DpPIut-Q2mZ6o5hWjgm/view?usp=drive_link) |
-| Lecture 7 | Model Predictive Control and Safety-Critical Control | [View PDF](https://drive.google.com/file/d/14gJZit8pro84g6bhgDJ2ryNN9aqXq72m/view?usp=drive_link) |
-| Lecture 8 | Advanced Control Architectures for Autonomous Systems | [View PDF](https://drive.google.com/file/d/1OB91nBh-6ohOZ2lZGnvlmy4GegHlE1al/view?usp=drive_link) |
-| Lecture 9 | Planning Methods Review | [View PDF](https://drive.google.com/file/d/14Rn0ZiBCSMPZUvc7IaWeEKE83h3j_4hw/view?usp=drive_link) |
-| Examples | Practice Problems | [View PDF](https://drive.google.com/file/d/1hKp-jc3QsYU7z9j5oOnc3FrGk9BgD329/view?usp=drive_link) |
+| Lecture 2 | Vehicle Kinematics & Equations of Motion | [View PDF](https://drive.google.com/file/d/1owZKDUkSKeVTAficLxapTVEcpgFy0ksk/view?usp=drive_link) |
+| Lecture 3 | Control & Perception Fundamentals | [View PDF](https://drive.google.com/file/d/1XSycos9-VOoPfZqGDNw1gGSAr8JkfNqF/view?usp=drive_link) |
+| Lecture 4 | Nonlinear Control Methods | [View PDF](https://drive.google.com/file/d/1Frb2LX2YPsPbd9OAY0FFtx8WhgESJOfN/view?usp=drive_link) |
+| Lecture 5 | Lyapunov Stability & Nonlinear Systems | [View PDF](https://drive.google.com/file/d/1GNbBcapEEpDxGYVO9Taa22LuCm8yQevN/view?usp=drive_link) |
+| Lecture 6 | Feedback Linearization & Robust Control | [View PDF](https://drive.google.com/file/d/1rUUf0MG9nRLk3JSYKSm742mJUdbZuRl0/view?usp=drive_link) |
+| Lecture 7 | Model Predictive Control & Safety-Critical Control | [View PDF](https://drive.google.com/file/d/1dsiAghaylNwJjMhOpD6ywnQSeMnlTEaF/view?usp=drive_link) |
+| Lecture 8 | Motion Planning Algorithms | [View PDF](https://drive.google.com/file/d/1fc93pufalvjRsOo9TNzHWNkm1Xrl6O0d/view?usp=drive_link) |
+| Lecture 9 | Planning Methods Review | [View PDF](https://drive.google.com/file/d/17DzlVn7I1PQihSaBrm3K-QM5frJ6l39Z/view?usp=drive_link) |
 
 ---
 
